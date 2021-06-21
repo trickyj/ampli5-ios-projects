@@ -5,7 +5,7 @@
 # List of IOS apps for learning purpose
 
   * <a href="https://github.com/trickyj/IOS-GoCorona"> 1. basic IOS App called GoCorona. Same like I am rich.</a> 
-  * <a href="#">2. Simple Roll Dice IOS App</a>
+  * <a href="https://github.com/trickyj/Pro_4_IOS_Mood_Check">2. Check mood on button click/a>
   * <a href="#">3. Testig the FlappyBird IOS app</a>
 
 
