@@ -7,6 +7,9 @@
 - <a href="https://github.com/trickyj/IOS-GoCorona"> 1. basic IOS App called GoCorona. Same like I am rich.</a>
 - <a href="#">2. Simple Roll Dice IOS App</a>
 - <a href="#">3. Testig the FlappyBird IOS app</a>
+- <a href="https://github.com/trickyj/Babby_Xylophone">4. Baby Xylophone IOS musical App </a>
+- <a href="https://github.com/trickyj/Calculator-Layout-iOS13">5. Calculator Layout demo </a>
+- <a href="https://github.com/trickyj/Pro_4_IOS_Mood_Check">6. Mood Check IOS Fun App </a>
 
 #### There were few errors I came across which has been published on my blog
 
