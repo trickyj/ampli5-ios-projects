@@ -11,16 +11,8 @@
 - <a href="https://github.com/trickyj/Calculator-Layout-iOS13">5. Calculator Layout demo </a>
 - <a href="https://github.com/trickyj/Pro_4_IOS_Mood_Check">6. Mood Check IOS Fun App </a>
 
-#### There were few errors I came across which has been published on my blog
-
-<a href="https://scrollunlock.wordpress.com/">ScrollUnlock</a>
-
-<br>
-
 Regards,
 
-<br>
-
 <a href="http://ampli5.me">Ampli5.me</a>
-
+<a href="https://scrollunlock.wordpress.com/">ScrollUnlock Blog</a>
 ![End Banner](Documentation/logo.png)
