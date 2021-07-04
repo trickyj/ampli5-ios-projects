@@ -13,6 +13,6 @@
 
 Regards,
 
-<a href="http://ampli5.me">Ampli5.me</a>
-<a href="https://scrollunlock.wordpress.com/">ScrollUnlock Blog</a>
-![End Banner](Documentation/logo.png)
+- <a href="http://ampli5.me">Ampli5.me</a>
+- <a href="https://scrollunlock.wordpress.com/">ScrollUnlock Blog</a>
+  ![End Banner](Documentation/logo.png)
