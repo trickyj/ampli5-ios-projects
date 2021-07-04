@@ -23,4 +23,4 @@ Regards,
 
 <a href="http://ampli5.me">Ampli5.me</a>
 
-[End Banner](Documentation/logo.png)
+![End Banner](Documentation/logo.png)
